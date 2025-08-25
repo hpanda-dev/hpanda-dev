@@ -20,9 +20,6 @@ Currently working with telecom & network domain 📡 <img src="https://media.gip
   <a href="mailto:phrushikesh60@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-phrushikesh60@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+919966659766" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-%2B91--99666--59766-brightgreen?style=flat-square&logo=phone&logoColor=white"/>
-  </a>
 </p>
 
 ---
